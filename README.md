@@ -6,7 +6,9 @@ Medical Imaging Segmentation` (preprint coming soon) by Jesse Sun and Bo Wang fr
 
 We made this codebase public to speed up the development of machine learning research in healthcare.
 
-Currently, the codebase is linked to the database AC17. You may override the `data/ac17_dataloader.py` file by writing your own custom dataloader class for your dataset of choice. Only supports 1 GPU currently. Cannot run without a GPU.
+Currently, the codebase is linked to the database AC17. You may override the `data/ac17_dataloader.py` file by writing your own custom dataloader class for your dataset of choice. 
+
+Only supports 1 GPU currently. Cannot run without a GPU.
 
 TODO:
 1. Comment all the code.
