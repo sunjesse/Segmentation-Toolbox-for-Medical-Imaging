@@ -19,11 +19,4 @@ fill in the locations depending on where you are storing the files on your envir
 
 If you do find our work useful, please consider citing the following (not published yet):
 
-```
-@inproceedings{sun2019haunet,
-    title={HAUNet: Hyper-Dense Attention U-Nets for Interpretable Medical Imaging Segmentation},
-    author={Sun, Jesse and Wang, Bo},
-    booktitle={},
-    year={2019}
-}
-```
+
