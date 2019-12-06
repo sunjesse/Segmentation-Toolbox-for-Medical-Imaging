@@ -1,8 +1,5 @@
 # Segmentation-Toolbox-for-Medical-Imaging
-A PyTorch codebase template for medical imaging segmentation developed by Jesse Sun from Dr. Bo Wang's lab. 
-
-This template codebase was derived from the codebase used for the work `HAUNet: Hyper-Dense Attention U-Nets for Interpretable 
-Medical Imaging Segmentation` (preprint coming soon) by Jesse Sun and Bo Wang from UHN.
+A PyTorch codebase template for medical imaging segmentation developed by Jesse Sun from Dr. Bo Wang's lab at UHN. 
 
 We made this codebase public to speed up the development of machine learning research in healthcare.
 
@@ -16,7 +13,5 @@ TODO:
 
 There may be some instabilities currently. Notably, directory locations are left blank or have `'./'` prefixing it, please
 fill in the locations depending on where you are storing the files on your environment.
-
-If you do find our work useful, please consider citing the following (not published yet):
 
 
